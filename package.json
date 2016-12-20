@@ -16,7 +16,11 @@
     "type": "git",
     "url": "https://github.com/zhaoyao91/observable-state-store.git"
   },
-  "keywords": [],
+  "keywords": [
+    "observable",
+    "state",
+    "store"
+  ],
   "author": "zhaoyao91@163.com",
   "license": "MIT",
   "bugs": {
